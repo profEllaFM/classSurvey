@@ -1,6 +1,12 @@
-,1,2,3,4,5,6,7,8,9,10,11
-Do you prefer dogs or cats? ,Dogs,Dogs,Dogs,Dogs,Dogs,Dogs,Dogs,Cats,Cats,Dogs,Dogs
-Do you prefer dogs or cats? ,Dogs,Dogs,Dogs,Dogs,Dogs,Dogs,Dogs,Cats,Cats,Dogs,Dogs
-Time travel or read minds?,Time,Time,Minds,Time,Minds,Minds,Time,Time,Time,Time,Time
-How many (0-7) of the Harry Potter books have you read? ,7,4,7,7,5,7,7,7,0,3,7
-Do you believe in true love? ,1,0,1,-1,0,0,1,1,1,1,1
+DogCat,DogCatOther,TimeMind,hpBooks,trueLove
+Dogs,Dogs,Time,7,1
+Dogs,Dogs,Time,4,0
+Dogs,Dogs,Minds,7,1
+Dogs,Dogs,Time,7,-1
+Dogs,Dogs,Minds,5,0
+Dogs,Dogs,Minds,7,0
+Dogs,Dogs,Time,7,1
+Cats,Cats,Time,7,1
+Cats,Cats,Time,0,1
+Dogs,Dogs,Time,3,1
+Dogs,Dogs,Time,7,1
