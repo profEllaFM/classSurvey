@@ -1,0 +1,51 @@
+iranDeal: 
+		0: No
+		1: Yes
+		-1: Don't know
+
+votePast: Have you voted in a general election before?
+		0: No
+		1: Yes
+voteFuture: Do you plan on voting in the upcoming Presidential election?
+		0: No
+		1: Yes
+caffeineWeekly: How many caffeinated beverages do you drink per week?
+
+coffeeWeekly: How many cups of coffee do you drink per week? 
+
+studyWeekly: How many hours do you spend studying for this class per week?
+
+futureHope: How optimistic are you about America's future? 
+	1: extremely optimistic
+	10: extremely pestimistic
+
+partyID: Republican, Democrat, or Independent?
+	-2: Strong Republican
+	-1: Weak Republican
+	 0: Independent
+	 1: Weak Democrat
+	 2: Strong Democrat
+
+efficiencyTime: What time of the day are you most efficient?
+	Responses recorded in military time (0-24 hours)
+	3: midnight - 6 am
+	7.5: 6am-9am
+	10.5: 9am-noon
+	13.5: noon-3pm
+	16.5: 3 pm-6pm
+	19.5: 6pm-9pm
+	22.5: 9 pm -midnight
+
+DogCat:Do you prefer dogs or cats?
+
+DogCatOther: Do you prefer dogs or cats?
+	this question gave option for other animals
+	
+TimeMind: Time travel or read minds?
+
+hpBooks: How many (0-7) Harry Potter books have you read?
+
+trueLove: Do you believe in true love?
+	-1: No
+	0: Maybe
+	1: Yes
